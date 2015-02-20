@@ -1,0 +1,29 @@
+> DROP TABLE Avis
+
+Erreur commençant à la ligne 3 de la commande :
+DROP TABLE Avis
+Rapport d'erreur :
+Erreur SQL : ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:    
+*Action:
+> DROP TABLE Achats
+
+Erreur commençant à la ligne 4 de la commande :
+DROP TABLE Achats
+Rapport d'erreur :
+Erreur SQL : ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:    
+*Action:
+> DROP TABLE Livres
+table LIVRES supprimé(e).
+> DROP TABLE Clients
+
+Erreur commençant à la ligne 6 de la commande :
+DROP TABLE Clients
+Rapport d'erreur :
+Erreur SQL : ORA-00942: table or view does not exist
+00942. 00000 -  "table or view does not exist"
+*Cause:    
+*Action:
